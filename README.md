@@ -1,5 +1,3 @@
-## Welcome, this page will tell you about the OOS project !
-
 **OOS** - is a project related to the security of the Discord platform, we help projects with protection issues, as well as develop software packages to counteract raiders and other marginal personalities. Our task is to build a global network for project Administrators to interact.
 
 ### Our ready-made projects: [AntiRaider Bot for Discord](https://discordoos.github.io/ENG-Manual-Secutity-Bot-for-Discord/)
