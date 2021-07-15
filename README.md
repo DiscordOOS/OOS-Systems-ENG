@@ -8,7 +8,6 @@
 
 ### Our developers: [Lick]() & [Skumen]() 
 
-
 ### Licenses:
 
 ![https://img.shields.io/github/license/DiscordOOS/OOS-Systems-ENG?color=r&label=OOS-Systems-ENG%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems-ENG?color=r&label=OOS-Systems-ENG%20License)
